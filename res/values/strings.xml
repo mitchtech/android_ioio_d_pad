@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">IOIO D-Pad</string>
+    <string name="up_text">UP</string>
+    <string name="down_text">DOWN</string>
+    <string name="left_text">LEFT</string>
+    <string name="right_text">RIGHT</string>
+
+</resources>
